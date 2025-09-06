@@ -41,7 +41,7 @@ Motivated and detail-oriented developer with a **strong passion** for creating i
 </details>
 
 <details open>
-<summary><b>⚙️ Backend & Database</b></summary>
+<summary><b>⚙️ Backend & Database Technologies</b></summary>
 
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -53,7 +53,7 @@ Motivated and detail-oriented developer with a **strong passion** for creating i
 </details>
 
 <details open>
-<summary><b>🔧 Tools & Frameworks</b></summary>
+<summary><b>🔧 Other tools </b></summary>
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
@@ -80,7 +80,7 @@ Motivated and detail-oriented developer with a **strong passion** for creating i
 
 ```javascript
 const developer = {
-    name: "Your Name",
+    name: "Joie S. Pasaol",
     mindset: ["Proactive", "Growth-oriented", "Detail-focused"],
     superpowers: [
         "Quick Learning",

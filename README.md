@@ -64,28 +64,13 @@ Motivated and detail-oriented developer with a **strong passion** for creating i
 
 </details>
 
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&hide_border=true)
-
-</div>
-
----
-
 ## 🎨 Featured Projects
 
 <div align="center">
 
-[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project1&theme=radical&hide_border=true)](https://github.com/yourusername/project1)
-[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project2&theme=radical&hide_border=true)](https://github.com/yourusername/project2)
+[![My Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=JoiePasaol&repo=My_Portfolio&theme=radical&hide_border=true)](https://github.com/JoiePasaol/My_Portfolio)
+[![Client Management System](https://github-readme-stats.vercel.app/api/pin/?username=JoiePasaol&repo=client_management&theme=radical&hide_border=true)](https://github.com/JoiePasaol/client_management)
+[![Item Inventory System](https://github-readme-stats.vercel.app/api/pin/?username=JoiePasaol&repo=Item-Inventory-Sytem&theme=radical&hide_border=true)](https://github.com/JoiePasaol/Item-Inventory-Sytem)
 
 </div>
 
@@ -110,37 +95,13 @@ const developer = {
 
 ---
 
-## 📈 Activity Graph
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark&hide_border=true)
-
----
-
 ## 🤝 Let's Connect!
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](your-portfolio-link)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](your-twitter)
+[![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://joie-pasaol-portfolio.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/joie-pasaol-617823319)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joie.pasaol13@gmail.com)
 
-</div>
 
----
-
-<div align="center">
-  
-### 💡 "Adaptability, Growth, and Relentless Curiosity"
-
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&style=for-the-badge&color=blueviolet)
-
-⭐️ **From [YourName](https://github.com/yourusername)** - *Let's build something amazing together!*
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>

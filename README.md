@@ -91,7 +91,6 @@ const developer = {
         "Continuous Growth"
     ],
     currentFocus: "Building impactful digital solutions",
-    funFact: "I turn coffee into code and ideas into reality ☕️→💻"
 };
 ```
 
